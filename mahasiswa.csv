@@ -1,0 +1,6 @@
+﻿"NIM","Nama","Prodi","IPK","Absensi","Ekonomi","Pekerjaan","Semester","SKS","Beasiswa","Risiko","Probabilitas","Model"
+"2405176061","Ahmadil","Teknik Informatika","2.15","2%","Rendah","Buruh","4","24","Swasta","Tinggi","72%","Logistic Regression"
+"2405176052","Yosua Elvano","Teknik Informatika","2.15","5%","Rendah","Lainnya","4","100","Swasta","Tinggi","71%","Random Forest"
+"2405176073","Muhammad Aldy Rizaldy","Teknik Informatika","2.97","25%","Menengah","Lainnya","4","100","Swasta","Sedang","44%","XGBoost"
+"2405176060","sigit darwanto cahyadi","Teknik Informatika","3.00","85%","Tinggi","PNS","4","24","KIP Kuliah","Rendah","18%","XGBoost"
+"2405176063","ginanjar cahyo nugroho","Akuntansi","3.99","100%","Tinggi","PNS","4","24","KIP Kuliah","Rendah","5%","Random Forest"

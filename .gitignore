@@ -1,0 +1,24 @@
+# XAMPP / PHP project files
+*.log
+*.sql
+*.sqlite
+*.db
+*.env
+.env
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Composer
+/vendor/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
