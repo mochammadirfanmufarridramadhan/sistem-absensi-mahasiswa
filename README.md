@@ -33,5 +33,3 @@ powershell -ExecutionPolicy Bypass -File .\push_to_github.ps1 -RemoteUrl "https:
 Catatan:
 - Pastikan Git terpasang dan Anda sudah login ke GitHub (atau gunakan credential manager)
 - Skrip hanya menambahkan remote jika belum ada
-
-Jika mau, saya bisa membuat commit message khusus atau menyesuaikan README lebih rinci.
